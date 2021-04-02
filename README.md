@@ -24,10 +24,11 @@ python train.py
 Then you can run the tester.py file to see if your new VIP can be recognised. 
 
 ### Output 
-
-![Output 1]("https://github.com/MinduliW/FacialRecognition/blob/main/outputs/BEN.png")
-![Output 2]("https://github.com/MinduliW/FacialRecognition/blob/main/outputs/me.png")
-![Output 3]("https://github.com/MinduliW/FacialRecognition/blob/main/outputs/mindy.png")
+<p float="left">
+  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/outputs/BEN.png" width="300" />
+  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/outputs/me.png" width="300" /> 
+  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/outputs/mindy.png" width="300" />
+</p>
 
 ### Data collection 
 Data for this project can be obtained in two ways. 
