@@ -25,9 +25,9 @@ Then you can run the tester.py file to see if your new VIP can be recognised.
 
 ### Output 
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-
+![Output 1]("https://github.com/MinduliW/FacialRecognition/blob/main/outputs/BEN.png")
+![Output 2]("https://github.com/MinduliW/FacialRecognition/blob/main/outputs/me.png")
+![Output 3]("https://github.com/MinduliW/FacialRecognition/blob/main/outputs/mindy.png")
 
 ### Data collection 
 Data for this project can be obtained in two ways. 
