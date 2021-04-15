@@ -25,9 +25,8 @@ Then you can run the tester.py file to see if your new VIP can be recognised.
 
 ### Output 
 <p float="left">
-  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/outputs/BEN.png" width="300" />
-  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/outputs/me.png" width="300" /> 
-  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/outputs/mindy.png" width="300" />
+  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/BEN.png" width="300" />
+  <img src="https://github.com/MinduliW/FacialRecognition/blob/main/mindy.png" width="300" />
 </p>
 
 ### Data collection 
